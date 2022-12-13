@@ -1,0 +1,1 @@
+by default `git clone` command will download `master` copy from github
