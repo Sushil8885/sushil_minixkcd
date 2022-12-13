@@ -1,0 +1,1 @@
+# when you clone any project on github by default you clone master branch
